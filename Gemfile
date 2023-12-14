@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'pg'
+
+gem 'rack-cors'
